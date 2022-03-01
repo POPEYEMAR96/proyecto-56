@@ -1,0 +1,22 @@
+body {
+text-align: center;
+background-color: white;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image-secion {
+    display: flex;
+    justify-content: center;
+}
+
+.section-style {
+    margin-right:25px ;
+    margin-left: 25px;
+    background-color: cyan;
+    }
+h1  {
+   color: black;
+}
